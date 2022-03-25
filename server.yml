@@ -1,0 +1,1 @@
+rtsps: [ "rtsp://admin:xier123456@192.168.5.66/h264/ch1/sub/av_stream", "rtsp://192.168.9.100:8557/h264" ]
